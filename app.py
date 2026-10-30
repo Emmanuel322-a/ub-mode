@@ -174,7 +174,7 @@ def home():
         <section id="contact">
             <h2>Contact Me</h2>
             <p>Use the form below to send a message.</p>
-            <form action="/" method="POST">
+            <form action="https://formspree.io/f/xwllqgal" method="POST">
                 <label for="name">Your Name</label>
                 <input id="name" name="name" type="text" required>
 
